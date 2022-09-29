@@ -1,0 +1,6 @@
+projectKey=ATYPIK-HOUSE
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=ATYPIK-HOUSE
+ceTaskId=AYNpqds4ui950bho-rXL
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNpqds4ui950bho-rXL
