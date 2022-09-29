@@ -1,0 +1,108 @@
+.articles {
+    margin-top: 50px;
+}
+
+.articles .article {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.imag {
+    width: 400px;
+    height: 100%;
+    margin-left: 30px;
+}
+.title {
+    font-size: xx-large;
+    color: rgb(22 101 52);
+}
+.auteur {
+    font-weight: bold;
+    text-align: right;
+    margin-top: 2em;
+}
+.p1 {
+    display: flex;
+    flex-direction: column;
+}
+.imag2 {
+    width: 400px;
+    height: auto;
+}
+.p1 {
+    display: flex;
+    flex-direction: column;
+}
+.right {
+    max-width: 50%;
+    margin: 40px;
+}
+
+.date {
+    color: grey;
+    margin-top: -5px;
+}
+
+.description {
+    color: grey;
+}
+
+.rotate:hover {
+    -moz-transition: all 0.5s linear;
+    -webkit-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.art_mentions {
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+@media screen and (max-width: 1024px)
+{
+    .dblock
+    {
+        display: block;
+        width: 100%;
+
+    }
+    .dblockBtn
+    {
+        display: block;
+        margin-left: 40%;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (min-width: 1024px)
+{
+    .dblock
+    {
+        display: block;
+        width: 32%;
+
+    }
+    .dblockBtn
+    {
+        display: block;
+        margin-left: 40%;
+        margin-top: 20px;
+    }
+
+    .Contact {
+        display: block;
+        width: 50%;
+    }
+
+    .QSN {
+        display: block;
+        width: 20%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

@@ -1,0 +1,69 @@
+.contact {
+    font-size: large;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.titre {
+    font-weight: bolder;
+    color: #166534;
+    display: flex;
+    justify-content:center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+#container p {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.form {
+    padding: 40px 50px 45px;
+    font-size: medium;
+}
+
+.form-control {
+    border: 1px solid rgb(187, 182, 182);
+    box-shadow: 5px 2px 2px lightgray;
+    width: 30%;
+}
+.label {
+    font-size: 15px;
+}
+#btn {
+    background-color: rgb(238, 236, 236);
+    border: 1px solid lightgray;
+    box-shadow: 5px 2px 2px lightgray;
+    padding: 4px;
+}
+.div {
+    padding: 20px;
+}
+.oblig {
+    color: red;
+}
+.textarea {
+    border: 1px solid rgb(187, 182, 182);
+    box-shadow: 5px 2px 2px lightgray;
+    width: 100%;
+}
+
+.titreH2 {
+    font-weight: bold;
+    color: #166534;
+}
+.container{
+    padding: 40px 50px 45px;
+}
+
+/* css page panier 5 */
+
+
+
+
